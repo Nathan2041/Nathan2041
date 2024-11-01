@@ -1,7 +1,5 @@
 Hi, I’m @Nathan2041
-I’m currently interested in math, HTML, and GLSL
-I’m currently learning how to use GLSL and Lua
-I’m looking to collaborate on making a website of little experiments
+I’m currently interested in the HTML languages and GLSL, and i’m looking to collaborate on making a website of little experiments.
 Pronouns: He/Him
 
 <!---
