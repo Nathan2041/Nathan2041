@@ -27,7 +27,6 @@
 ## Contact
 
 - **Email**: nathan.dianis@gmail.com
-- **Website**: nathan2041.github.io
 
 ---
 bottom text
