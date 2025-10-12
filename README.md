@@ -10,7 +10,7 @@
 
 ## Things I've Built
 
-- ``` nothing lol ```
+- snake clone
 
 ## My Current Stack
 
