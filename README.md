@@ -8,22 +8,6 @@
 - **BitScraper** - A coding puzzle game
 - **MLP Demo** - Experimenting with machine learning and neural networks
 
-## Things I've Built
-
-- snake clone
-
-## My Current Stack
-
-- **Languages**: HTML, CSS, TypeScript, GLSL
-- **Graphics**: WebGL for shaders because parallelisation = fast
-- **Tools**: npm, Vite
-
-## Random Facts
-
-- I breathe oxygen
-- I enjoy the weird intersection between math and making things look cool
-- WebGL documentation is surprisingly not terrible once you get used to it
-
 ## Contact
 
 - **Email**: nathan.dianis@gmail.com
