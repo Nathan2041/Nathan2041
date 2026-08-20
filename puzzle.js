@@ -1,25 +1,21 @@
 "use strict";
 
 // Make test() return true
-// you can only edit getValue
+// you can only edit arbitraryName
 
 function test() {
-    const value = getValue();
+    let value = arbitraryName();
 
-    const a = value.current;
-    const b = value.current;
+    let a = value.current;
+    let b = value.current;
 
-    return a !== b && a + b === 3;
+    return a !== b && a + b === 3
 }
 
-// start
-
-function getValue() {
+function arbitraryName() {
     return {
         current: 1
-    };
+    }
 }
 
-// end
-
-console.log(test() ? "PASS" : "FAIL");
+console.log(test() ? "yae" : "nae");
